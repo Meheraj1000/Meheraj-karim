@@ -130,3 +130,26 @@ main section{
     border-radius: 5px;
     box-shadow: 0px 6px 50px 0px rgb(0, 0, 0, 0.08) ;
 }
+/* Resum section style */
+
+.resumr-container{
+    display: flex;
+    gap: 24px;
+
+}
+.exoerience-sub-tilte{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.experince-description, .exoerience-sub-tilte{
+    color: #75757575;
+
+}
+.resume hr{
+    margin: 30px 5px;
+
+}
+.resume-download-cv{
+    margin-top: 50px;
+}
